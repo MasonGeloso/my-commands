@@ -1,0 +1,1 @@
+I've encountered this error. I've provided the error message in context. And what I want you to do is go investigate the root issue of the error and tell me what it is. Do not try to fix it yet, just tell me what you will do to fix it. Do not make any assumptions, go find and trace down the root of the issue.
