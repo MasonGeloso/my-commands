@@ -19,4 +19,3 @@ Remember to read through the docs, check for utils that exist, do web research i
 -   Do not add comments - If something needs explaining, add a comment _block_ - Do not add comments on _what_ is happening, add comments on _why_ it is happening
 -   Do not try to run things after you finish, I will test and validate your work
 -   Always add to the plan to include imports at the top of the file not inline
--   At the end of the plan, include a section titled "## Unclear Questions" with any fuzzy or unclear questions that need to be answered before execution
